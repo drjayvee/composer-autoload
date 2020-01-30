@@ -1,0 +1,10 @@
+{
+    "name": "drjayvee/composer-autoload",
+    "autoload": {
+		"classmap": ["src"],
+		"exclude-from-classmap": [
+			"src/li"
+		]
+    },
+    "require": {}
+}
