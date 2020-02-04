@@ -1,5 +1,5 @@
 <?php
 
-namespace lepackage\in;
+namespace lepackage\li;
 
 class OtherClass {}
